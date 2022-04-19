@@ -1,5 +1,5 @@
 # host_checker
-Script to check nginx bug host
+Script to check multiple nginx bug host
 
 # Usage  
 In a new folder create a file called urls.txt  
